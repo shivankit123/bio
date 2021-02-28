@@ -15,6 +15,19 @@ p{
     color:whitesmoke;
     font-style: italic;
     font-size: large;
+    width: 400px;
+    
+    
+}
+#one
+{   background-color:pink ;
+    border-width: 10px;
+    border-color:red;
+    border-style: solid;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: auto;
+    margin-top: auto;
 }
 *{
     background-color:rgb(48, 46, 46);
@@ -28,10 +41,17 @@ body{
 img{
     width: 50%;
     margin: 1px auto;
-    display: block;    
+    display: block;
+    border-radius: 10pxs; 
+    border-style: double;   
 }
 div{
     color: white;
+    border-style:solid ;
+    padding:20px;
+    border-color:royalblue;
+    margin-left: auto;
+    margin-top:20px;
 }
 a
 {
